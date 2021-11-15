@@ -1,0 +1,14 @@
+.breadcrumbs__item {
+  font-size: 14px;
+line-height: 16px;
+text-decoration-line: underline;
+padding-bottom: 25px;
+color: #9A9A9A;
+}
+.breadcrumbs__item:after {
+  content: "/  ";
+  color: #9A9A9A;
+  }
+  .breadcrumbs__item:last-child:after {
+    display: none;
+  }

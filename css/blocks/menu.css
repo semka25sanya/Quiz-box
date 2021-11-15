@@ -1,0 +1,10 @@
+.menu {
+  display: flex;
+  justify-content: space-between;
+}
+.menu__item{
+  margin-left: 50px;
+}
+.menu__link {
+  color: #FFF
+}

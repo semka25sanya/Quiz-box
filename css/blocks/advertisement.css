@@ -1,0 +1,10 @@
+.advertisement__wrapper {
+  display: flex;
+  align-items: center;
+  background: #17191C url(/img/reviews/enter.png) no-repeat right bottom;
+}
+
+.advertisement__title{
+  font-size: 48px;
+  padding: 117px 0 117px 0;
+}

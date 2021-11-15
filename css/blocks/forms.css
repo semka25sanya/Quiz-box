@@ -1,0 +1,48 @@
+.forms {
+  background: #F4F5F5;
+  color: #303030;
+}
+.forms__title {
+  font-weight: bold;
+  color: #1A1B1E;
+  font-size: 48px;
+  padding: 60px 0;
+}
+.form__row {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+
+.form__input {
+  
+    flex: 1;
+    margin-right: 28px;
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+     padding: 20px 30px;
+    font-size: 18px;
+}
+
+.form__input--textarea{
+  height: 235px;
+}
+
+.form__controls--title {
+  width: 36%;
+  font-size: 18px;
+}
+
+.form__controls {
+  display: flex;
+  padding-bottom: 12px
+}
+.form__buttons {
+  display: flex;
+  justify-content: flex-end;
+  padding-bottom: 96px;
+}
+.form--button {
+  margin-right: 15px;
+  background: #2B2B2B;
+}

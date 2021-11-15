@@ -1,0 +1,20 @@
+.news {
+  
+  margin-bottom: 150px;
+}
+.news__title {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 49px;
+  margin-bottom: 51px;
+}
+.news__menu {
+  display: flex;
+  justify-content: space-between;
+}
+.new__content {
+ 
+/* flex: 1; */
+color: #212121;
+padding: 33px 35px 44px 22px ;
+}

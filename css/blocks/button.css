@@ -1,0 +1,33 @@
+.button {
+  cursor: pointer;
+}
+.button {
+  background: #8F00FF;
+border-radius: 5px;
+width: 168px;
+height: 55px;
+padding: 18px 40px;
+color: #FFF;
+text-transform: uppercase;
+font-weight: bold;
+}
+
+.button:hover {
+  background: #741BBA;
+  color: #FFF;
+}
+
+.button-main {
+margin-bottom: 211px;
+}
+
+.button__news:hover {
+  background: #FFF;
+  color:#8F00FF;
+  border: 1px solid #8F00FF;;
+  }
+
+  .button__about {
+    background: transparent;
+    border: 1px solid #fff;
+  }

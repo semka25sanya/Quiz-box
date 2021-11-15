@@ -1,0 +1,48 @@
+.paginator {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+}
+.paginator__text {
+  margin-right: 25px; 
+}
+.paginator__list {
+  display: flex;
+  align-items: center;
+ 
+}
+
+.paginator__item {
+  text-align: center;
+  
+}
+
+/* .paginator__item:first-child {
+  margin-left: 36px;
+} */
+.paginator__item--active .paginator__link {
+  background-color: #8F00FF;
+  color:#fff;
+}
+.paginator__link {
+  display: block;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  text-decoration: none;
+  font-weight: bold;
+  line-height: 32px;
+
+}
+.paginator__link:hover{
+  background-color: #8F00FF;
+  color: #fff;
+}
+/* .about {
+  margin-bottom: 109px;
+} */
+
+.paginator--games {
+  padding-bottom: 90px;
+}

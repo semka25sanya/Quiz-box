@@ -1,0 +1,31 @@
+.header-bottom__title {
+  font-size: 72px;
+line-height: 84px;
+margin-bottom: 103px;
+}
+
+.header--games {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 412px;
+  background: url(/img/games/back.games.png) center top no-repeat;
+}
+
+
+.header-top__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 133px;
+  margin-top:23px;
+  
+}
+
+.header-top__content--games {
+  margin-bottom: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top:23px;
+  }

@@ -1,0 +1,14 @@
+.phone {
+  text-align: right;
+}
+.phone__number {
+  font-size: 26px;
+  margin: 0;
+}
+.phone__hours {
+  display: inline-block;
+font-size: 13px;
+line-height: 20px;
+text-decoration-line: underline;
+color: #FFF;
+}

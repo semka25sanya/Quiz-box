@@ -1,0 +1,27 @@
+.social__item {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+  }
+
+  .social__link {
+    display: block;
+    text-decoration: 0;
+    width: 36px;
+    height: 36px;
+    background: center center no-repeat;
+  }
+  
+  .social__item--tg .social__link {
+    background-image: url(/img/main/telegram.png);
+  }
+  
+  .social__item--fb .social__link {
+    background-image: url(/img/main/fb.png);
+  }
+  .social__item--inst .social__link {
+    background-image: url(/img/main/inst.png);
+  }
+  .social__item--vk .social__link {
+    background-image: url(/img/main/vk.png);
+  }

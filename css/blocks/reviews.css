@@ -1,0 +1,15 @@
+.reviews_main-section {
+  background-color: #fff;
+}
+.reviews__list {
+  display: flex;
+  flex-direction: row;
+  padding-top: 98px ;
+  column-count: 2;
+  column-gap: 30px;
+  padding-bottom: 45px;
+  max-height: 1378px;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  flex-direction: column;
+}

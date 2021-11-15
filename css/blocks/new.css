@@ -1,0 +1,31 @@
+.new {
+  width: calc(100%/3 - 18px
+);
+background: #FFFFFF;
+border-radius:  5px;
+    min-height: 476px;
+    display: flex;
+    flex-direction: column;
+}
+
+.new__img{
+  width: 100%;
+  height: 100%;
+}
+.new__title{
+  font-weight: bold;
+font-size: 24px;
+margin-bottom: 21px;
+}
+
+.new__desc {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 23px;
+  color: #666666;
+  font-size: 16px;
+}
+
+.new__text {
+  margin-bottom: 42px;
+}

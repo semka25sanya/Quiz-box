@@ -1,0 +1,32 @@
+.main-content--games {
+  background: #fff;
+  color: #303030;
+}
+
+.main-content--games__list {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 52px;
+  padding-top: 100px;
+}
+
+.main-content--games__item {
+  display: flex;
+  margin-bottom: 49px;
+  align-items: center;
+
+}
+
+.main-content--games__info {
+  display: flex;
+  flex-direction: column;
+  margin-left: 56px;
+}
+.main-content--games__title {
+font-size: 36px;
+font-weight: bold;
+margin-bottom: 25px;
+}
+.main-content--games__text {
+  margin-bottom: 35px;
+}
